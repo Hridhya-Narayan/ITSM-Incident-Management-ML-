@@ -1,2 +1,2 @@
 # Machine Learning–Driven Incident Priority Prediction & ITSM Optimization
-Machine Learning–based ITSM project to predict incident priority, automate ticket classification, forecast incident volume, and improve SLA adherence using historical IT service data.
+This project demonstrates how machine learning can be applied to IT Service Management (ITSM) to enhance incident handling, reduce SLA violations, and improve customer satisfaction in enterprise IT environments.
